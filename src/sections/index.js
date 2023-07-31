@@ -1,1 +1,1 @@
-export { EmployeeForm } from "./form";
+export { EmployeeForm } from "./forms";
